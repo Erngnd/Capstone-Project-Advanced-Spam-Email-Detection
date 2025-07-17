@@ -21,7 +21,7 @@ Features
 
         Multi-tab result visualization: summary, technical details, and raw JSON data
 
-        Sample example emails for quick testing
+        Sample example emails for quick testing (Work in progress)
 
 Requirements
 
