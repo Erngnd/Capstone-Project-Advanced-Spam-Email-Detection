@@ -13,15 +13,15 @@ Features
 
         URL and attachment reputation checks using VirusTotal API
 
-    Robust email parsing including multipart and HTML emails
+        Email parsing including multipart and HTML emails
 
-    Detailed analysis output with scores and explanations
+        Detailed analysis output with scores and explanations
 
-    Interactive GUI built with tkinter for email file selection, preview, and result display
+        Interactive GUI built with tkinter for email file selection, preview, and result display
 
-    Multi-tab result visualization: summary, technical details, and raw JSON data
+        Multi-tab result visualization: summary, technical details, and raw JSON data
 
-    Sample example emails for quick testing
+        Sample example emails for quick testing
 
 Requirements
 
