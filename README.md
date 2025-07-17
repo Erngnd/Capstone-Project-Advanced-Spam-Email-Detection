@@ -107,9 +107,9 @@ How It Works
     The GUI visualizes this data clearly, providing actionable insights.
 
 GUI
-```
-![GUI Screenshot1](images/ss1.png)
-![GUI Screenshot2](images/ss2.png)
-![GUI Screenshot3](images/ss3.png)
-![GUI Screenshot4](images/ss4.png)
-```
+
+    ![GUI Screenshot1](images/ss1.png)
+    ![GUI Screenshot2](images/ss2.png)
+    ![GUI Screenshot3](images/ss3.png)
+    ![GUI Screenshot4](images/ss4.png)
+
